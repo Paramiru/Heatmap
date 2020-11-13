@@ -29,5 +29,5 @@ public class App
     	var filename = "heatmap.geojson";
     	heatMapIO.createFile(filename, formated_FeatureCollection);
     }
-   
+ 
 }

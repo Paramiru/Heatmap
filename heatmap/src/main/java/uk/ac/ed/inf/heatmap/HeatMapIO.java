@@ -44,6 +44,7 @@ public class HeatMapIO {
 	public void createFile(String filename, String string_to_write) {
 	    try {
 	    	var writer = new FileWriter(filename);
+	    	System.out.println("File " + filename + " created successfully.");
 			writer.append(string_to_write);
 			writer.append('\n');
 		    writer.close();
