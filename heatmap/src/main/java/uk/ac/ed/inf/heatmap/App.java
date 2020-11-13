@@ -1,12 +1,7 @@
 package uk.ac.ed.inf.heatmap;
 
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.List;
 
-import com.mapbox.geojson.Feature;
-import com.mapbox.geojson.FeatureCollection;
-import com.mapbox.geojson.Geometry;
 
 public class App 
 {

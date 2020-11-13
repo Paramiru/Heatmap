@@ -32,6 +32,7 @@ public class HeatMapIO {
     		}
     		line_row++;
     	}
+    	scanner.close();
     	return double_array;
 	}
 	
