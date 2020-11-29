@@ -7,9 +7,10 @@
   <groupId>uk.ac.ed.inf</groupId>
   <artifactId>heatmap</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
 
   <name>heatmap</name>
-  <url>http://www.example.com</url>
+  <!-- <url>http://www.example.com</url> -->
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
