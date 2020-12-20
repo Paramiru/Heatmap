@@ -13,7 +13,7 @@ public class HeatMapIO {
 	 * Splits each line by ", " to get each number as a String
 	 * and parse them as Double.
 	 * 
-	 * @param filename name of the file to read
+	 * @param filename   name of the file to read
 	 * @return 2D Double array with the corresponding prediction
 	 * in each cell.
 	 * @throws FileNotFoundException
@@ -39,8 +39,8 @@ public class HeatMapIO {
 	/** 
 	 * Creates file and writes to it a given String
 	 * 
-	 * @param filename name of the file to create
-	 * @param string_to_write String to be written on the file
+	 * @param filename        name of the file to create
+	 * @param string_to_write string to be written on the file
 	 */
 	public void createFile(String filename, String string_to_write) {
 	    try {
