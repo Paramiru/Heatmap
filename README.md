@@ -86,7 +86,7 @@ where ../predictions.txt correspond to the text file which sould be in the heatm
 ## Screenshots
 
 <p align="center">
-  <img width="460" src="./screenshots/rendered-heatmap.png">
+  <img width="460" src="./screenshot/rendered-heatmap.png">
   <br>
   Rendered heatmap from given predictions in coursework document
 </p>
